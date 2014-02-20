@@ -8,8 +8,18 @@ Hi everyone interested in working with WordPress and Yeoman. <a href="http://yeo
 generators
 ----------
 
+<a href="https://github.com/wp-yeoman/YeoPress">YeoPress</a> - The officially un-official Yeoman Generator for WordPress. I magically take you from scratching your head wondering where to start, all the way to running the famous 5-minute install. I have configuration options that will WOW you. <a href="http://wesleytodd.com/2013/5/yeopress-a-yeoman-generator-for-wordpress.html">Read more &raquo;</a>
+
+<a href="https://github.com/danielauener/generator-wp-grunted-theme">generator-wp-theme</a> - A Yeoman WordPress theme  generator, to kickstart WordPress theme development with yo, sass and grunt. <a href="http://www.danielauener.com/yeoman-wordpress-theme-generator/">Read more &raquo;</a>
+
+
 tutorials
 ---------
 
+
 posts
 -----
+
+<a href="http://wesleytodd.com/2013/5/yeopress-a-yeoman-generator-for-wordpress.html">YeoPress: A Yeoman Generator for WordPress</a>
+
+<a href="http://www.danielauener.com/yeoman-wordpress-theme-generator/">Yeoman WordPress theme generator</a>
